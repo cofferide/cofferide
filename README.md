@@ -10,7 +10,7 @@
 
 <!--*[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FarhAnonymous)*-->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-mohamad-naim-shikh-shatir-9211771bb/)
-<a href="sheikhnaim1997@gmail.com"> My Email </a>
+<a href="mailto:sheikhnaim1997@gmail.com"> My Email </a>
 <!--[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhnaim1997@gmail.com)-->
 <!--[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14277705/farhan)-->
 
