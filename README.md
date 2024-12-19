@@ -8,15 +8,15 @@
 
 ## Feel Free To Connect With Me!<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
 
-<!--*[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FarhAnonymous)*
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanonymous/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.farhan2000@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14277705/farhan)
+<!--*[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FarhAnonymous)*-->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sheikh-mohamad-naim-shikh-shatir-9211771bb)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhnaim1997@gmail.com)
+<!--[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14277705/farhan)-->
 
 <h3>📈 Visitors Count 👇 </h3>
 <div>
-    <a href="https://github.com/FarhAnonymous" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=FarhAnonymous&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="IMDev" />
+    <a href="https://github.com/cofferide" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=cofferide&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="IMDev" />
    </a> 
 </div>
 
@@ -29,11 +29,8 @@
 
 <hr>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=FarhAnonymous&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=FarhAnonymous&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=cofferide&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
 </p>
-
-<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>-->
 
 
 
