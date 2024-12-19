@@ -1,10 +1,11 @@
 <h1>Hello Visitors!, I am IMDev  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG53dzZvdDMyeHE2Mndma254bWo0ZWFuemFtOXRpdWoxYWgxMHg1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tsX3YMWYzDPjAARfeg/giphy.gif" width="50px"></h1>
 <h2>About Me 👨‍🎓</h2>
 
-<li> 🐱‍👤 I am a Mechatronics Engineering Graduate.</li>
+<li> 🐱‍👤 I am![Uploading django-logo.svg…]()
+ a Mechatronics Engineering Graduate.</li>
 <li> 💻 Learning Data Structures & Algorithms using Python. ✅</li>
 <li> 💞 Exploring Other Programming Languages.</li>
-<li> 👯 Looking forward to collaborate in Open Source Projects.</li>
+<li> 📺 Looking forward to collaborate in Open Source Projects.</li>
 
 ## Feel Free To Connect With Me!<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
 
