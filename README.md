@@ -14,6 +14,9 @@
 <a href="https://orcid.org/0000-0002-7988-3138" target="_blank">
   <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" width="30" height="30">
 </a>
+<a href="https://www.mathworks.com/matlabcentral/profile/authors/22853090" target="blank">
+  <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo-membrane.20241106114913842.svg" alt="Mathworks" width="30" height="30">
+</a>
 <!--[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14277705/farhan)-->
 #
 <h3>📈 Visitors Count 👇 </h3>
